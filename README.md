@@ -1,0 +1,1 @@
+# Resolvendo-c-lculos-b-sicos.py
