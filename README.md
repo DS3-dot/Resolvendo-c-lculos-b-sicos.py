@@ -1,1 +1,1 @@
-# Resolvendo-c-lculos-b-sicos.py
+# Resolvendo-cálculos-básicos.py
